@@ -1,0 +1,36 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "theJoernal"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "Ochego's Personal Blog"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "Joseph Ochego"
+  image = "img/profile.png"
+  headline = "Have fun learning"
+  bio = "Self-taught Web Developer | Linux Enthusiast"
+  links = [
+    # { email = "mailto:ochegoatwork@gmail.com" },
+    { link = "https://ochego.netlify.app" },
+    { github = "https://github.com/josephchigiz" },
+    { instagram = "https://instagram.com/joe__graphic" },
+    { x-twitter = "https://twitter.com/i_am_ochego" },
+#     { codepen = "https://codepen.io/username" },
+#     { dev = "https://dev.to/username" },
+#     { discord = "https://discord.gg/invitecode" },
+#     { dribbble = "https://dribbble.com/username" },
+#     { hashnode = "https://username.hashnode.dev" },
+#     { linkedin = "https://linkedin.com/in/username" },
+#     { medium = "https://medium.com/username" },
+#     { twitter = "https://twitter.com/username" },
+#     { youtube = "https://youtube.com/username" },
+  ]
