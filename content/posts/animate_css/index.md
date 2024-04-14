@@ -2,7 +2,7 @@
 title = 'Add basic animations to your site using "Animate.css" and  "wow.js"'
 date = 2024-04-14T18:21:41+05:30
 draft = false
-tags = ["animation", "css", "html", "cdn", "animate.css", "wow.js"]
+tags = ["simple", "animation", "css", "html", "cdn", "animate.css", "wow.js"]
 +++
 
 I have been working on my [personal portfolio](https://ochego.netlify.app) website _(although not complete)_ for the past few weeks, taking it really slow, revising designs and ensuring I get my persona represented accurately. One of the visual elements I've had to have from the inception of the idea was **animations**.
