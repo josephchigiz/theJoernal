@@ -5,7 +5,7 @@ draft = false
 tags = ["simple", "animation", "css", "html", "cdn", "animate.css", "wow.js"]
 +++
 
-I have been working on my [personal portfolio](https://ochego.netlify.app) website _(although not complete)_ for the past few weeks, taking it really slow, revising designs and ensuring I get my persona represented accurately. One of the visual elements I've had to have from the inception of the idea was **animations**.
+I have been working on my [personal portfolio](https://ochego.netlify.app) website _(although not complete)_ for the past few weeks, taking it really slow, revising designs and ensuring I get my persona represented accurately. One of the visual elements I've had to have from the beginning was **animations**.
 
 You might have just shrugged, thinking, "Another complex guide on implementing web animations...". Far from it. This is probably the simplest way you can use animations in your site using **_CSS classes_**.
 
