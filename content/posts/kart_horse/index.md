@@ -6,8 +6,9 @@ tags = ["web-dev", "process", "plan"]
 
 +++
 
-The best way to start a project is to **"just start,"** right? **WRONG!**  
-If you've ever turned to motivational videos or pieces for that extra push to start a project, you know how the phrase "just start" is overused. Not to say it doesn't work, no, it actually does, mostly. But there is so much lost in that slogan that it can be just as destructive as it is motivational.
+The best way to start a project is to **"just start,"** right? **WRONG!**
+
+If you've ever turned to motivational videos or pieces for that extra push to start a project, you know the phrase **"just start"**. Not to say it doesn't work, no, it actually does, mostly. But there is so much lost in that slogan that it can be just as destructive as it is motivational.
 
 This applies especially in tasks that require a process, a flow, a system for the best outcomes like programming, design, and the like. Jumping right into the thick of it and **just starting** is not the way to go. The planning phase is just as important, if not more than the execution phase, and I had to be cornered by a recent project to come to this epiphany.
 
