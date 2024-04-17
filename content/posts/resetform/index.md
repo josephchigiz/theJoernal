@@ -1,5 +1,5 @@
 ---
-title: "How to reset a htlml form on submit using JavaScript"
+title: "How to reset a HTML form on submit using JavaScript"
 date: 2024-04-11T14:02:39+05:30
 tags: ["javascript", "form", "dom"]
 ---
