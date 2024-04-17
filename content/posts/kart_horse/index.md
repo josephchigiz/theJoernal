@@ -10,6 +10,8 @@ The best way to start a project is to **"just start,"** right? **WRONG!**
 
 If you've ever turned to motivational videos or pieces for that extra push to start a project, you know the phrase **"just start"**. Not to say it doesn't work, no, it actually does, mostly. But there is so much lost in that slogan that it can be just as destructive as it is motivational.
 
+_"You do not rise to the level of your goals, you fall to the level of your systems"_, James Clear.
+
 This applies especially in tasks that require a process, a flow, a system for the best outcomes like programming, design, and the like. Jumping right into the thick of it and **just starting** is not the way to go. The planning phase is just as important, if not more than the execution phase, and I had to be cornered by a recent project to come to this epiphany.
 
 While creating my new web portfolio, I had it all well laid out, planned in my head; I could see the outcome, the result; I could see all who set their eyes on it after I was done in awe. Although I started off well by creating a wire-frame then a high-fidelity design in Figma, I did so only for the homepage. I was supposed to do the same for all the other pages, but boy did my fingers itch for some typing action. Before I knew it, I was in too deep, visualising the design in my head as I implemented it in code.
