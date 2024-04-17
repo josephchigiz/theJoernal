@@ -22,9 +22,10 @@ There's a reason programs like [Figma](https://www.figma.com/) and [XD](https://
 
 Then with the well-laid-out design, we move to development.
 
-I was doing it all wrong, designing and developing using the same tool; Making one step forward and ten back when I mess up with good code while trying to get rid of the bad. I had gotten away with it for three pages, but it had finally caught up with me.
+I was doing it all wrong, designing and developing on the fly, using the same tool - [VScode](https://code.visualstudio.com/); Making one step forward and ten back when I mess up with good code while trying to get rid of the bad. I had gotten away with it for three pages, but it had finally caught up with me.
 
-It took really fighting with my code to remember a process I learned during my Internship at Metanoia Web Labs from my mentor. I woke up the next morning after battling with the contact page for 3 days, prepared a strong cup of lemon tea with honey and sat down at my desk. With pen and paper, I wrote down the process I was going to follow*(web design and development)*:
+It took really fighting with my code to remember a process I learned during my internship at Metanoia Web Labs from my mentor.  
+I woke up the next morning after battling with the contact page for 3 days, prepared a strong cup of lemon tea with honey and sat down at my desk. With pen and paper, I wrote down the process I was going to follow _(web design and development)_:
 
 1. Plan (languages, timeline...)
 2. Wireframing
@@ -34,7 +35,7 @@ It took really fighting with my code to remember a process I learned during my I
 6. Collecting and organizing assets from designs
 7. Programming
 
-Looks like a lot, right? Yes, it does, but it isn't. It's just a rough outline of what you'll be doing, one after the other. You don't even have to do them all. A low-fidelity design might be enough for you to refer to as you code the page without a hitch while others might be required to go all the way, finishing with a prototype.
+Looks like a lot, right? Yes, it does, but it isn't. It's just a rough outline of what you'll be doing, one after the other. You don't even have to do them all. A low-fidelity design might be enough for you to translate into code without a hitch, while others might be required to go all the way, finishing with a prototype.
 
 If you're only a web developer and not a designer, then by all means start from number seven. You'll probably receive the design from a designer who will do most of the earlier work, from wire-framing to high-fidelity designs or even rapid prototyping.
 
@@ -53,3 +54,5 @@ Have fun learning 😁
 https://www.figma.com/ - Figma
 
 https://adobexdplatform.com/ - Adobe XD
+
+https://code.visualstudio.com/ - VScode
