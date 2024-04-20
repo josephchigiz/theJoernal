@@ -47,4 +47,4 @@ During a week as hectic as this one, I find relief and rest in writing. I type m
 
 So I write for lots of reasons, some personal and selfish, some relatable and helpful to others. The baseline being that I love doing it; Not enough to sell a limb for it, but just enough to keep writing, enjoying every bit of it.
 
-Even knowing that sometimes I'm just rambling on and on, circling the same idea, I don't decide when to stop, where it ends, **_it just does_**!
+Even knowing that sometimes I'm just rambling on and on, circling the same idea, I don't decide when to stop, where it ends, **_it just does !_**
