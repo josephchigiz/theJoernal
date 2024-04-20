@@ -10,23 +10,24 @@ _"You can build a prison of stone and steel, but you merely present the prisoner
 
 **Inescapable!**
 
-As the heart is held hostage by love, so is my mind by creativity. The yearning to create, the itch, the desperation - desperation can be an ally\_. I write, not only because I love to but the **need** pushes even harder; I have to!
+As the heart is held hostage by love, so is my mind by creativity. The yearning to create, the itch, the desperation - desperation can be an ally\_. I write, not only because I love to, but the **need** pushes even harder; I have to!
 
 ---
 
-Before I dive deep into today's main topic, here is something I noticed when preparing a draft on paper for this post. I dislike pens, ball-points, gel, fountain pens, whatever writes in ink. Journaling, when I do, I do it in pencil, from cover to cover writings in pencil, sketches, design wire-frames, quotes, random thoughts, nonsense, I don't discriminate, all in pencil, all on plain-sheet notebooks.
+Before I dive deep into today's main topic, here is something I noticed when preparing a draft on paper for this post. I dislike pens, ball-points, gel, fountain pens, whatever writes in ink. Journaling, when I do, is in pencil. From cover to cover, writings in pencil, sketches, design wire-frames, quotes, random thoughts, nonsense, I don't discriminate, all in pencil, all on plain-sheet notebooks.
 
 Alas! The restrictions are gone, freedom beyond lines and ink.
 
-My writing may not be as legible or pretty to look at as that written by say a Bic on a single rule sheet, heck it barely befits the description, "handwriting". But the gold here is the ideas hidden in the mush put down by my pencil. Sometimes, I can't, for the life of me figure out what I wrote and I'm trying to read, but that beats writing beautifully and letting ideas disappear as I try to perfect my penmanship. The freedom of pencil on plain sheets of papers/books, as trivial as it might seem, does wonders to my workflow and I can't recommend it enough.
+My writing may not be as legible or pretty to look at as that written by say a Bic on a single rule sheet, heck it barely befits the description, "handwriting". But the gold here is the ideas hidden in the mush put down by my pencil. Sometimes, I can't, for the life of me figure out what I wrote while I'm trying to read, but that beats writing beautifully and letting ideas disappear as I try to perfect my penmanship. The freedom of pencil on plain sheets of papers/books, as trivial as it might seem, does wonders to my workflow and I can't recommend it enough.
 
 ---
 
 Now back to the subject matter; I write for many reasons, some of which I'll share here.
 
-To begin with, I only write short-form material, stuff like articles, blog posts, tutorials here and there and documentation for my development projects. Books? Na-ah, I don't think I would fancy that. The thought of it alone - no thank you! I prefer the shorter bursts of ideas, kinda instant feedback, then on to the next thing.
+To begin with, I only write short-form material, stuff like articles, blog posts, tutorials here and there and documentation for my development projects.  
+Books? Na-ah, I don't think I would fancy that. The thought of it alone - no thank you! I prefer the shorter bursts of ideas, kinda instant feedback, then on to the next thing.
 
-Short-form materials have been the core building blocks of my development journey and I owe lots of credit to them for this passion. There are too many authors and sites to mention, but the writing from [DHH](https://world.hey.com/dhh) and [Jason Fried](https://world.hey.com/jason) on [Hey World](https://www.hey.com/world/) have been key players in my love for the art. Their conciseness, straight to the point approach and the personalisation they put into every piece they write is a fresh of breath air.
+Short-form materials have been the core building blocks of my development journey and I owe lots of credit to them for this passion. There are too many authors and sites to mention, but the pieces from [DHH](https://world.hey.com/dhh) and [Jason Fried](https://world.hey.com/jason) on [Hey World](https://www.hey.com/world/) have been key players in my love for the art. Their conciseness, straight to the point approach and the personalisation they put into every piece they write is a fresh of breath air.
 
 Another factor that pushes me to write is the excitement I get when I have really interesting newfound knowledge. It might not be in the slightest bit interesting to you, but I'll ramble about it anyways, my friends go through it, sorry :grin: .Writing about it and sharing it, grounds me a bit more in that respect, knowing that someone else out there will be thrilled to bits when they encounter that bit of information, just as I was.
 
