@@ -10,7 +10,7 @@ _"You can build a prison of stone and steel, but you merely present the prisoner
 
 **Inescapable!**
 
-As the heart is held hostage by love, so is my mind by creativity. The yearning to create, the itch, the desperation - desperation can be an ally\_. I write, not only because I love to, but the **need** pushes even harder; I have to!
+As the heart is held hostage by love, so is my mind by creativity. The yearning to create, the itch, the desperation - _desperation can be an ally_. I write, not only because I love to, but the **need** pushes even harder; I have to!
 
 ---
 
