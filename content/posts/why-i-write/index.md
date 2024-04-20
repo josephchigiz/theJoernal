@@ -29,7 +29,8 @@ Books? Na-ah, I don't think I would fancy that. The thought of it alone - no tha
 
 Short-form materials have been the core building blocks of my development journey and I owe lots of credit to them for this passion. There are too many authors and sites to mention, but the pieces from [DHH](https://world.hey.com/dhh) and [Jason Fried](https://world.hey.com/jason) on [Hey World](https://www.hey.com/world/) have been key players in my love for the art. Their conciseness, straight to the point approach and the personalisation they put into every piece they write is a fresh of breath air.
 
-Another factor that pushes me to write is the excitement I get when I have really interesting newfound knowledge. It might not be in the slightest bit interesting to you, but I'll ramble about it anyways, my friends go through it, sorry :grin: .Writing about it and sharing it, grounds me a bit more in that respect, knowing that someone else out there will be thrilled to bits when they encounter that bit of information, just as I was.
+Another factor that pushes me to write is the excitement I get when I have really interesting newfound knowledge. It might not be in the slightest bit interesting to you, but I'll ramble about it anyways, my friends go through it, sorry 😁.  
+Writing about it and sharing it, grounds me a bit more in that respect, knowing that someone else out there will be thrilled to bits when they encounter that bit of information, just as I was.
 
 The reason I haven't been so fond of _lecture, listen and leave_ type classes is the lack of passion in the information delivery. I meet it once in a while and I just want such lectures to go on and on; It might not even be a subject matter I'm deeply interested in but that sparkle in the speaker's eyes and the depth of their words as they share their knowledge is profound. Written pieces stir up the same emotion when the writer cares deeply about what they're delivering.
 
