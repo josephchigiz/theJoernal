@@ -42,7 +42,7 @@ I think as a gift for sharing knowledge, there's a peace that I am rewarded with
 
 There has to be a selfish reason too, right? There always is _[grinning]_.
 
-During a week as hectic as this one, I find relief and rest in writing. I type my thoughts on the things I care about and my computer listens, keen to register every key-press, then it displays its response on the screen. I add more and more lines, and it keeps listening, it keeps responding. **"This man sounds nuts"**, we all are! Most of us just don't write about it :smile:
+During a week as hectic as this one, I find relief and rest in writing. I type my thoughts on things I care about and my computer listens, keen to register every key-press, then it displays its response on the screen. I add more and more lines, and it keeps listening, it keeps responding. **"This man sounds nuts"**, we all are! Most of us just don't write about it :smile:
 
 So I write for lots of reasons, some personal and selfish, some relatable and helpful to others. The baseline being that I love doing it; Not enough to sell a limb for it, but just enough to keep writing, enjoying every bit of it.
 
