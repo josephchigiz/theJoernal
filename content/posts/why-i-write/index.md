@@ -36,7 +36,7 @@ The reason I haven't been so fond of _lecture, listen and leave_ type classes is
 
 Let me be biased but honest here for a second. My father's **Swahili** classes, back when he taught the language, and my mother's performing-arts training sessions in school are exactly the kind of experiences that would be best described with phrases such as _full of depth_ and _passionate_. Without a doubt, they're a major influence on my love for art.
 
-That was a prelude to the point that another reason I write is to share knowledge with depth. Putting in that extra effort to ensure that it is clear and concise so everyone gets the point. If you're passionate about it, it will definitely be delivered alongside the information you share; At least I hope that's the case for my pieces. Is it? _"Comment below :)"_
+That was a prelude to the point that another reason I write is to share knowledge with depth. Putting in that extra effort to ensure that it is clear and concise so everyone gets the point. If you're passionate about it, the passion and care will be evident in the information you share; At least I hope that's the case for my pieces. Is it? _"Comment below :)"_
 
 I think as a gift for sharing knowledge, there's a peace that I am rewarded with. Two to three lines into writing a piece and my thoughts are flowing, smoothly, peacefully. I isolate the sound of my fingers hitting the keys on my keyboard and just like that, I'm gone. Some sort of trance, peaceful, tense in a good way and productive of course - a good piece at the end.
 
