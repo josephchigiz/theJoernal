@@ -1,7 +1,6 @@
 +++
 title = 'Bridging the Gap: Basic Design Principles for Developers'
 date = 2024-04-27T10:06:46+05:30
-draft = true
 tags = ['UI', 'typography', 'design', 'improve']
 +++
 
