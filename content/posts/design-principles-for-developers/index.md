@@ -1,7 +1,7 @@
 +++
 title = 'Bridging the Gap: Basic Design Principles for Developers'
 date = 2024-04-27T10:06:46+05:30
-tags = ['UI', 'typography', 'design', 'improve']
+tags = ['uidesign', 'typography', 'webdev', 'improve']
 +++
 
 Developers typically focus on the coding and development aspects of a project. Clarity in roles is essential, with designers handling tasks from theme selection to UI design, passing the completed work to developers for implementation.
