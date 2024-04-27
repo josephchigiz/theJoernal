@@ -56,8 +56,8 @@ The layout of a user interface influences how users interact with a product. Dev
 ____
 Explore these two exemplary resources for general guidelines and best practices in exceptional web design:  
 
-[9 Guidelines & Best Practices for Exceptional Web Design and Usability](https://blog.hubspot.com/blog/tabid/6307/bid/30557/6-guidelines-for-exceptional-website-design-and-usability.aspx)  
-[Decoding Apple’s Design Magic: What It Teaches Us About Typography, Images, and Icons](https://bootcamp.uxdesign.cc/decoding-apples-design-magic-what-it-teaches-us-about-typography-images-and-icons-ed8e6e760f2d)  
+1. [9 Guidelines & Best Practices for Exceptional Web Design and Usability](https://blog.hubspot.com/blog/tabid/6307/bid/30557/6-guidelines-for-exceptional-website-design-and-usability.aspx)  
+2. [Decoding Apple’s Design Magic: What It Teaches Us About Typography, Images, and Icons](https://bootcamp.uxdesign.cc/decoding-apples-design-magic-what-it-teaches-us-about-typography-images-and-icons-ed8e6e760f2d)  
 
 ## Conclusion
 
