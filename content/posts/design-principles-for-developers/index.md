@@ -43,7 +43,7 @@ You can jump to the following sites for designer-curated color palettes or even 
 Access icons for your websites, ranging from free to premium, on these top icon sites:  
   - [Font Awesome](https://fontawesome.com/)
   - [Icons8](https://icons8.com/) for icons and more _(illustrations, 3D assets, AI photo gen)_
-  - [Iconify Design](https://icon-sets.iconify.design/?keyword=svelte) - Find popular open source icon sets
+  - [Iconify Design](https://icon-sets.iconify.design/) - Find popular open source icon sets
 
 ## 4. Layouts
 ![layout image](images/layout.webp)  
