@@ -2,6 +2,7 @@
 title = '"Learning Styles: A Myth?"'
 date = 2024-05-14T18:00:23+05:30
 draft = false
+tags = ["learning-styles", "VARK", "multimodal"]
 +++
 
 **Learning styles**. We all have them, right? At least that's what we believe.  
@@ -36,6 +37,10 @@ This learning method engages multiple sensory systems simultaneously allowing us
 
 That is why those YouTube tutorials you've been following have been effective in whatever you've been learning. Well, at least if the videos were made right. And adding note-taking to that, results in an even more impressive outcome.  
 
-The multi-modal learning approach has always been around, used even without our knowledge. Now that we know, applying it more [consciously and properly](https://www.workramp.com/blog/multimodal-learning/) is assured to give us better outcomes in our learning or teaching. 
+The multi-modal learning approach has always been around, used even without our knowledge. Now that we know, applying it more [consciously and properly](https://www.workramp.com/blog/multimodal-learning/) is assured to give us better outcomes in our learning or teaching.  
 
-Live Long and Prosper 🖖🏾
+Live Long and Prosper 🖖  
+
+#### Main Ref Links
+[Veritasium Video](https://youtu.be/rhgwIhB58PA?si=JlzhMCr793fVKkWa)
+[General Musings Podcast](https://youtu.be/djg69yaJL64?si=wPAOor0MWDFoW6vj) - Kevin Powell
