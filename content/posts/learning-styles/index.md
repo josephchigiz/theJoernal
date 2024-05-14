@@ -14,9 +14,9 @@ It is because I enjoy watching, from movies to tech news and even more when lear
 The buzz in this generation's education system is that students learn better with their preferred learning styles.  
 If that's the case in a class of 50, then the teacher needs to do these two things:  
   i) Learn each student's preferred learning style, then  
-  ii) Teach each student by their learning style
+  ii) Teach each student by their learning style  
 
-This idea is enforced by the "Western" train of thought, where *"...we're all unique, all different, and we don't want to conflict with people's ***feelings*** of 'what it means to be human'.* "  
+Is that feasible?  
 
 Dr. Derek Muller explains in his [**Veritasium** video](https://youtu.be/rhgwIhB58PA?si=o_s-lyjLLgASXLa2) how music is best learnt by listening, graphics design through images and videos, painting through painting _(kinesthetic)_ and poetry through reading.  
 These subjects all have their optimum methods/modes of delivery. That is why when you're learning Geography and the teacher uses images and maps, you understand it better than without. It's not really because the teacher used your preferred learning style, visual, but because it's the most effective mode of delivery of such a concept.  
