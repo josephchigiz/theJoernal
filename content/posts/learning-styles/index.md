@@ -5,7 +5,7 @@ draft = false
 tags = ["learning-styles", "VARK", "multimodal"]
 +++
 
-**Learning styles**. We all have them, right? At least that's what we believe.  
+**Learning styles**. We all have them, right? Or at least that's what we believe.  
 There exist several theories about learning styles, one of the most common ones being the **Visual, Auditory, Reading/Writing, and Kinesthetic** theory, commonly referred to as ***[VARK](https://vark-learn.com/)***. 
 
 "I am a visual learner", I've said this countless times; When speaking with friends, looking for learning resources, or looking for a way out of reading a book, "I am a visual learner."  
@@ -42,5 +42,5 @@ The multi-modal learning approach has always been around, used even without our 
 Live Long and Prosper 🖖  
 
 #### Main Ref Links
-[Veritasium Video](https://youtu.be/rhgwIhB58PA?si=JlzhMCr793fVKkWa)
+[Veritasium Video](https://youtu.be/rhgwIhB58PA?si=JlzhMCr793fVKkWa)  
 [General Musings Podcast](https://youtu.be/djg69yaJL64?si=wPAOor0MWDFoW6vj) - Kevin Powell
