@@ -1,98 +1,99 @@
 ---
 title: "How To Display JavaScript Objects"
 date: 2024-05-29T15:10:04+05:30
-draft: true
+draft: false
+tags: ["JavaScript", "objects", "DOM", webdev]
 ---
 
-# JavaScript Display Objects
 
-While primitives in JavaScript are values themselves, everything else, including arrays and functions, **are objects**. Understanding how to leverage objects in the Document Object Model (DOM) is vital for effective web development.  
+While primitives in JavaScript are values themselves, everything else, including arrays and functions, **are objects**. Understanding how to leverage objects in the Document Object Model *(DOM)* is vital for effective web development.  
 
 This is a guide on different methods of displaying Objects when working with the DOM.
 
 ____
 
-Displaying a JavaScript Object will output `[object Object]`:
+Displaying a JavaScript Object will output `[object Object]` by default:
 
 ```js
-const person = {  
+const mySelf = {  
     name: "Joe",  
-    age: 20,  
-    city: "Bengaluru"  
+    age: 21,  
+    city: "Bangalore"  
 };
 
-document.getElementById("demo").innnerHTML = person; //[object Object]
+document.getElementById("demo").innnerHTML = mySelf; //[object Object]
 ```
 
 This can however be **maneuvered** and solved with a couple of workarounds:
 
-1. Display the Object properties by name
-2. Display the Object Properties in  a Loop
-3. Display the Object using Object.values()
-4. Display the Object using JSON.stringify()
+1. Displaying Object properties by name
+2. Displaying Object Properties in a Loop
+3. Displaying Object using Object.values()
+4. Displaying Object using Object.entries()
+5. Displaying Object using JSON.stringify()
 
-## Displaying Object Properties
+## Display the Object Properties
 
 Object properties can be displayed as a string:
 
 ```js
 // create object
-const person = {  
-    name: "John",  
-    age: 30,  
-    city: "New York"  
+const mySelf = {  
+    name: "Joe",  
+    age: 21,  
+    city: "Bangalore"  
 };
 
 // display properties
-document.getElementById("demo").innerHTML = person.name + ", " + person.age + ", " + person.city;
+document.getElementById("demo").innerHTML = mySelf.name + ", " + mySelf.age + ", " + mySelf.city;
 ```
 
-## Display Properties in a Loop
+## Display Object Properties in a Loop
 
 Object properties can also be collected in a loop. 
 Here, we use an expression:
 
 ```js
 // Create an Object
-const person = {  
-    name: "John",  
-    age: 30,  
-    city: "New York"  
+const mySelf = {  
+    name: "Joe",  
+    age: 21,  
+    city: "Bangalore"  
 };
 
 // Build a Text
 let text = "";
-for (let x in person) {  
-    text += person[x] + " ";
+for (let x in mySelf) {  
+    text += mySelf[x] + " ";
 };
 
 // Display the Text
 document.getElementById("demo").innerHTML = text;
 ```
 
-**NOTE:** You must use `person[x]` in the loop.
-`person.x` will not work since `x` is the loop variable.
+**NOTE:** You must use `mySelf[x]` in the loop.
+`mySelf.x` will not work since `x` is the loop variable.
 
-## With Object.values()
+## Display using Object.values()
 
 `Objects.values()` creates an array from the properties' values.
 
 ```js
-const person = {  
-    name: "John",  
-    age: 30,  
-    city: "New York"  
+const mySelf = {  
+    name: "Joe",  
+    age: 21,  
+    city: "Bangalore"  
 };
 
 // create array
-const personArray = Object.values(person);
+const myArray = Object.values(mySelf);
 
 // display the array using DOM
-document.getElementById("demo").innerHTML = personArray;
+document.getElementById("demo").innerHTML = myArray;
 ```
 
 
-## With Object.entries()
+## Display using Object.entries()
 
 Using `Object.entries()` simplifies using objects in loops:
 
@@ -109,27 +110,34 @@ for (let [pen, value] of Object.entries(pens)) {
 document.getElementById("demo").innerHTML = text;
 ```
 
-## With JSON.stringify()
+## Display using JSON.stringify()
 
 You can convert JavaScript objects into a string with the JSON method `JSON.stringify()`
 This method is included in JavaScript and is also supported in most browsers, at least all the major ones.
 
 ```js
-const person = {  
-    name: "John",  
-    age: 30,  
-    city: "New York"
+const mySelf = {  
+    name: "Joe",  
+    age: 21,  
+    city: "Bengaluru"
 };
 
 // use JSON.stringify() method
-let personString = JSON.stringify(person);
+let myString = JSON.stringify(mySelf);
 
 // display the output
-document.getElementByID("demo").innerHTML = personString;
+document.getElementByID("demo").innerHTML = myString;
 ```
 
 This method will output a string a string written in JSON notation:
 
 ```js
-{"name":"John", "age":30, "city":"New York"}
+{"name":"Joe", "age":21, "city":"Bangalore"}
 ```
+
+___
+
+In summary, effectively displaying JavaScript objects in the DOM is crucial for dynamic web development.  
+By utilizing techniques such as accessing properties by name, iterating through properties, or using `Object.values()` and `Object.entries()`, you can present object data meaningfully.   
+
+Understanding these methods enhances user experience and showcases JavaScript's versatility in web applications. Mastering these techniques empowers you as a developer to create engaging and dynamic web content.
