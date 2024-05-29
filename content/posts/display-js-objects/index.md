@@ -141,3 +141,5 @@ In summary, effectively displaying JavaScript objects in the DOM is crucial for 
 By utilizing techniques such as accessing properties by name, iterating through properties, or using `Object.values()` and `Object.entries()`, you can present object data meaningfully.   
 
 Understanding these methods enhances user experience and showcases JavaScript's versatility in web applications. Mastering these techniques empowers you as a developer to create engaging and dynamic web content.
+
+**Have fun learning 😉**
