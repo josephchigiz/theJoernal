@@ -2,7 +2,7 @@
 title = 'Understand Scoping in JavaScript'
 date = 2024-07-12T15:49:11+05:30
 draft = false
-tags = ["scoping", "javascript", "webdevelopment", "tutorial"]
+tags = ["scoping", "javascript", "webdev", "tutorial"]
 +++
 
 Scoping in JavaScript is an important concept that provides the rules for variable accessibility from different parts of your code. It's a process of checking for a variable from one level to the next, from a block level to the function, and finally searching in the global level. Understanding scoping is important for writing a well-organized, efficient, and bug-free program.
