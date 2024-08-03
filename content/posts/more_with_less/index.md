@@ -109,13 +109,13 @@ Note that the checkboxes are rendered on most markdown readers but not all, for 
   - For larger codeblocks, use triple backticks;
   Three to open the block and three after the code to close it.
 
-![screenshot of codeblock](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/keeicry3nhbnxjd353nb.png)
+![screenshot of codeblock](code-block.png)
 
 ## 8. Syntax highlighting in codeblocks
 
 To get Syntax highlighting in code blocks, add the language name immediately after the opening backticks:
 
-![screenshot of codeblock with syntax highlighting](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qwdk1ak9sp1cruqthuhf.png)
+![screenshot of codeblock with syntax highlighting](syntax_highlight.png)
 
 
 <br>Markdown tooling is not an issue;
