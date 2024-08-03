@@ -79,7 +79,7 @@ Some important features that I heavily lean into in my workflow include:
   - [ ] Publish blog
   - [ ] Create summary
 
-Note that the checkboxes are rendered on most markdown readers but not all, for example on this site.
+Note that the checkboxes are rendered on most markdown readers but not all, for example on the dev.to site.
 
 
 ## 5. Lists
