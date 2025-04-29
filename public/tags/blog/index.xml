@@ -6,17 +6,21 @@
     <description>Recent content in Blog on theJoernal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Joseph Ochego</copyright>
-    <lastBuildDate>Thu, 11 Apr 2024 13:02:39 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Apr 2024 21:18:13 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I Write.</title>
+      <link>http://localhost:1313/posts/why-i-write/</link>
+      <pubDate>Fri, 19 Apr 2024 21:18:13 +0530</pubDate>
+      <guid>http://localhost:1313/posts/why-i-write/</guid>
+      <description>&amp;ldquo;You can build a prison of stone and steel, but you merely present the prisoner with a challenge.</description>
+    </item>
     <item>
       <title>My first post</title>
       <link>http://localhost:1313/posts/myfirstpost/</link>
       <pubDate>Thu, 11 Apr 2024 13:02:39 +0530</pubDate>
-      
       <guid>http://localhost:1313/posts/myfirstpost/</guid>
       <description>This is my first post on my site</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/myfirstpost/featured.jpg" />
     </item>
-    
   </channel>
 </rss>

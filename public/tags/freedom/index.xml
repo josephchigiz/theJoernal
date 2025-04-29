@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Freedom on theJoernal</title>
+    <link>http://localhost:1313/tags/freedom/</link>
+    <description>Recent content in Freedom on theJoernal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 09 Apr 2025 05:50:46 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/freedom/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>To_write_is_to_be_free</title>
+      <link>http://localhost:1313/posts/to_write_is_to_be_free/</link>
+      <pubDate>Wed, 09 Apr 2025 05:50:46 +0300</pubDate>
+      <guid>http://localhost:1313/posts/to_write_is_to_be_free/</guid>
+      <description>Picture this:</description>
+    </item>
+  </channel>
+</rss>

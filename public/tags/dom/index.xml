@@ -6,17 +6,21 @@
     <description>Recent content in Dom on theJoernal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Joseph Ochego</copyright>
-    <lastBuildDate>Thu, 11 Apr 2024 14:02:39 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/dom/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 May 2024 15:10:04 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/dom/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to reset a htlml form on submit using JavaScript</title>
+      <title>How To Display JavaScript Objects</title>
+      <link>http://localhost:1313/posts/display-js-objects/</link>
+      <pubDate>Wed, 29 May 2024 15:10:04 +0530</pubDate>
+      <guid>http://localhost:1313/posts/display-js-objects/</guid>
+      <description>While primitives in JavaScript are values themselves, everything else, including arrays and functions, are objects.</description>
+    </item>
+    <item>
+      <title>How to reset an HTML form on submit using JavaScript</title>
       <link>http://localhost:1313/posts/resetform/</link>
       <pubDate>Thu, 11 Apr 2024 14:02:39 +0530</pubDate>
-      
       <guid>http://localhost:1313/posts/resetform/</guid>
       <description>By default html forms are reset and all fields are cleared when we submit them.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/resetform/featured.jpg" />
     </item>
-    
   </channel>
 </rss>

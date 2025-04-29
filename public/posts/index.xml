@@ -6,37 +6,105 @@
     <description>Recent content in Posts on theJoernal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Joseph Ochego</copyright>
-    <lastBuildDate>Thu, 11 Apr 2024 14:16:48 +0530</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Apr 2025 15:53:56 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test_default</title>
+      <link>http://localhost:1313/posts/test_default/</link>
+      <pubDate>Tue, 29 Apr 2025 15:53:56 +0300</pubDate>
+      <guid>http://localhost:1313/posts/test_default/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Own_your_goal</title>
+      <link>http://localhost:1313/posts/own_your_goal/</link>
+      <pubDate>Wed, 09 Apr 2025 05:57:37 +0300</pubDate>
+      <guid>http://localhost:1313/posts/own_your_goal/</guid>
+      <description>&amp;ldquo;One of my greatest fears is comfort, and the sense of security it brings along.</description>
+    </item>
+    <item>
+      <title>To_write_is_to_be_free</title>
+      <link>http://localhost:1313/posts/to_write_is_to_be_free/</link>
+      <pubDate>Wed, 09 Apr 2025 05:50:46 +0300</pubDate>
+      <guid>http://localhost:1313/posts/to_write_is_to_be_free/</guid>
+      <description>Picture this:</description>
+    </item>
+    <item>
+      <title>Markdown: More With Less</title>
+      <link>http://localhost:1313/posts/more_with_less/</link>
+      <pubDate>Sun, 04 Aug 2024 00:25:33 +0530</pubDate>
+      <guid>http://localhost:1313/posts/more_with_less/</guid>
+      <description>Every technical writer should use Markdown✍; At the very least, learn it 📖</description>
+    </item>
+    <item>
+      <title>Understand Scoping in JavaScript</title>
+      <link>http://localhost:1313/posts/simplified-scoping/</link>
+      <pubDate>Fri, 12 Jul 2024 15:49:11 +0530</pubDate>
+      <guid>http://localhost:1313/posts/simplified-scoping/</guid>
+      <description>Scoping in JavaScript is an important concept that provides the rules for variable accessibility from different parts of your code.</description>
+    </item>
+    <item>
+      <title>How To Display JavaScript Objects</title>
+      <link>http://localhost:1313/posts/display-js-objects/</link>
+      <pubDate>Wed, 29 May 2024 15:10:04 +0530</pubDate>
+      <guid>http://localhost:1313/posts/display-js-objects/</guid>
+      <description>While primitives in JavaScript are values themselves, everything else, including arrays and functions, are objects.</description>
+    </item>
+    <item>
+      <title>&#34;Learning Styles: A Myth?&#34;</title>
+      <link>http://localhost:1313/posts/learning-styles/</link>
+      <pubDate>Tue, 14 May 2024 18:00:23 +0530</pubDate>
+      <guid>http://localhost:1313/posts/learning-styles/</guid>
+      <description>Learning styles.</description>
+    </item>
+    <item>
+      <title>Bridging the Gap: Basic Design Principles for Developers</title>
+      <link>http://localhost:1313/posts/design-principles-for-developers/</link>
+      <pubDate>Sat, 27 Apr 2024 10:06:46 +0530</pubDate>
+      <guid>http://localhost:1313/posts/design-principles-for-developers/</guid>
+      <description>Developers typically focus on the coding and development aspects of a project.</description>
+    </item>
+    <item>
+      <title>Why I Write.</title>
+      <link>http://localhost:1313/posts/why-i-write/</link>
+      <pubDate>Fri, 19 Apr 2024 21:18:13 +0530</pubDate>
+      <guid>http://localhost:1313/posts/why-i-write/</guid>
+      <description>&amp;ldquo;You can build a prison of stone and steel, but you merely present the prisoner with a challenge.</description>
+    </item>
+    <item>
+      <title>&#34;Just Start!&#34; - A double-edged sword.</title>
+      <link>http://localhost:1313/posts/kart_horse/</link>
+      <pubDate>Tue, 16 Apr 2024 16:27:23 +0530</pubDate>
+      <guid>http://localhost:1313/posts/kart_horse/</guid>
+      <description>The best way to start a project is to &amp;ldquo;just start,&amp;rdquo; right?</description>
+    </item>
+    <item>
+      <title>Add basic animations to your site using &#34;Animate.css&#34; and  &#34;wow.js&#34;</title>
+      <link>http://localhost:1313/posts/animate_css/</link>
+      <pubDate>Sun, 14 Apr 2024 18:21:41 +0530</pubDate>
+      <guid>http://localhost:1313/posts/animate_css/</guid>
+      <description>I have been working on my personal portfolio website (although not complete) for the past few weeks, taking it really slow, revising designs and ensuring I get my persona represented accurately.</description>
+    </item>
     <item>
       <title>View the weather report in the terminal</title>
       <link>http://localhost:1313/posts/wttr-in/</link>
       <pubDate>Thu, 11 Apr 2024 14:16:48 +0530</pubDate>
-      
       <guid>http://localhost:1313/posts/wttr-in/</guid>
       <description>I discovered a handy command-line tool for checking the weather report while watching Mischa&amp;rsquo;s video.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/wttr-in/featured.png" />
     </item>
-    
     <item>
-      <title>How to reset a htlml form on submit using JavaScript</title>
+      <title>How to reset an HTML form on submit using JavaScript</title>
       <link>http://localhost:1313/posts/resetform/</link>
       <pubDate>Thu, 11 Apr 2024 14:02:39 +0530</pubDate>
-      
       <guid>http://localhost:1313/posts/resetform/</guid>
       <description>By default html forms are reset and all fields are cleared when we submit them.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/resetform/featured.jpg" />
     </item>
-    
     <item>
       <title>My first post</title>
       <link>http://localhost:1313/posts/myfirstpost/</link>
       <pubDate>Thu, 11 Apr 2024 13:02:39 +0530</pubDate>
-      
       <guid>http://localhost:1313/posts/myfirstpost/</guid>
       <description>This is my first post on my site</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/myfirstpost/featured.jpg" />
     </item>
-    
   </channel>
 </rss>

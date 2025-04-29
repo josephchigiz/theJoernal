@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uidesign on theJoernal</title>
+    <link>http://localhost:1313/tags/uidesign/</link>
+    <description>Recent content in Uidesign on theJoernal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 27 Apr 2024 10:06:46 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/uidesign/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bridging the Gap: Basic Design Principles for Developers</title>
+      <link>http://localhost:1313/posts/design-principles-for-developers/</link>
+      <pubDate>Sat, 27 Apr 2024 10:06:46 +0530</pubDate>
+      <guid>http://localhost:1313/posts/design-principles-for-developers/</guid>
+      <description>Developers typically focus on the coding and development aspects of a project.</description>
+    </item>
+  </channel>
+</rss>

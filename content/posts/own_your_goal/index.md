@@ -1,6 +1,7 @@
 +++
 title = 'Own_your_goal'
 date = 2025-04-09T05:57:37+03:00
+image = '/assets/img/default.img'
 tags = [""]
 +++
 

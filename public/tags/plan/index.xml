@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plan on theJoernal</title>
+    <link>http://localhost:1313/tags/plan/</link>
+    <description>Recent content in Plan on theJoernal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 16 Apr 2024 16:27:23 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/plan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#34;Just Start!&#34; - A double-edged sword.</title>
+      <link>http://localhost:1313/posts/kart_horse/</link>
+      <pubDate>Tue, 16 Apr 2024 16:27:23 +0530</pubDate>
+      <guid>http://localhost:1313/posts/kart_horse/</guid>
+      <description>The best way to start a project is to &amp;ldquo;just start,&amp;rdquo; right?</description>
+    </item>
+  </channel>
+</rss>

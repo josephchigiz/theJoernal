@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writing on theJoernal</title>
+    <link>http://localhost:1313/tags/writing/</link>
+    <description>Recent content in Writing on theJoernal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 09 Apr 2025 05:50:46 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>To_write_is_to_be_free</title>
+      <link>http://localhost:1313/posts/to_write_is_to_be_free/</link>
+      <pubDate>Wed, 09 Apr 2025 05:50:46 +0300</pubDate>
+      <guid>http://localhost:1313/posts/to_write_is_to_be_free/</guid>
+      <description>Picture this:</description>
+    </item>
+    <item>
+      <title>Markdown: More With Less</title>
+      <link>http://localhost:1313/posts/more_with_less/</link>
+      <pubDate>Sun, 04 Aug 2024 00:25:33 +0530</pubDate>
+      <guid>http://localhost:1313/posts/more_with_less/</guid>
+      <description>Every technical writer should use Markdown✍; At the very least, learn it 📖</description>
+    </item>
+    <item>
+      <title>Why I Write.</title>
+      <link>http://localhost:1313/posts/why-i-write/</link>
+      <pubDate>Fri, 19 Apr 2024 21:18:13 +0530</pubDate>
+      <guid>http://localhost:1313/posts/why-i-write/</guid>
+      <description>&amp;ldquo;You can build a prison of stone and steel, but you merely present the prisoner with a challenge.</description>
+    </item>
+  </channel>
+</rss>

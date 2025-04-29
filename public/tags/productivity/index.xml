@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Productivity on theJoernal</title>
+    <link>http://localhost:1313/tags/productivity/</link>
+    <description>Recent content in Productivity on theJoernal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Aug 2024 00:25:33 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown: More With Less</title>
+      <link>http://localhost:1313/posts/more_with_less/</link>
+      <pubDate>Sun, 04 Aug 2024 00:25:33 +0530</pubDate>
+      <guid>http://localhost:1313/posts/more_with_less/</guid>
+      <description>Every technical writer should use Markdown✍; At the very least, learn it 📖</description>
+    </item>
+  </channel>
+</rss>

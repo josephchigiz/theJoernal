@@ -6,127 +6,273 @@
     <description>Recent content in Tags on theJoernal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Joseph Ochego</copyright>
-    <lastBuildDate>Thu, 11 Apr 2024 14:16:48 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Apr 2025 05:50:46 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Freedom</title>
+      <link>http://localhost:1313/tags/freedom/</link>
+      <pubDate>Wed, 09 Apr 2025 05:50:46 +0300</pubDate>
+      <guid>http://localhost:1313/tags/freedom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Learning</title>
+      <link>http://localhost:1313/tags/learning/</link>
+      <pubDate>Wed, 09 Apr 2025 05:50:46 +0300</pubDate>
+      <guid>http://localhost:1313/tags/learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tutorial</title>
+      <link>http://localhost:1313/tags/tutorial/</link>
+      <pubDate>Wed, 09 Apr 2025 05:50:46 +0300</pubDate>
+      <guid>http://localhost:1313/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Writing</title>
+      <link>http://localhost:1313/tags/writing/</link>
+      <pubDate>Wed, 09 Apr 2025 05:50:46 +0300</pubDate>
+      <guid>http://localhost:1313/tags/writing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:1313/tags/markdown/</link>
+      <pubDate>Sun, 04 Aug 2024 00:25:33 +0530</pubDate>
+      <guid>http://localhost:1313/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Productivity</title>
+      <link>http://localhost:1313/tags/productivity/</link>
+      <pubDate>Sun, 04 Aug 2024 00:25:33 +0530</pubDate>
+      <guid>http://localhost:1313/tags/productivity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Javascript</title>
+      <link>http://localhost:1313/tags/javascript/</link>
+      <pubDate>Fri, 12 Jul 2024 15:49:11 +0530</pubDate>
+      <guid>http://localhost:1313/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scoping</title>
+      <link>http://localhost:1313/tags/scoping/</link>
+      <pubDate>Fri, 12 Jul 2024 15:49:11 +0530</pubDate>
+      <guid>http://localhost:1313/tags/scoping/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Webdev</title>
+      <link>http://localhost:1313/tags/webdev/</link>
+      <pubDate>Fri, 12 Jul 2024 15:49:11 +0530</pubDate>
+      <guid>http://localhost:1313/tags/webdev/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dom</title>
+      <link>http://localhost:1313/tags/dom/</link>
+      <pubDate>Wed, 29 May 2024 15:10:04 +0530</pubDate>
+      <guid>http://localhost:1313/tags/dom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Objects</title>
+      <link>http://localhost:1313/tags/objects/</link>
+      <pubDate>Wed, 29 May 2024 15:10:04 +0530</pubDate>
+      <guid>http://localhost:1313/tags/objects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Learning-Styles</title>
+      <link>http://localhost:1313/tags/learning-styles/</link>
+      <pubDate>Tue, 14 May 2024 18:00:23 +0530</pubDate>
+      <guid>http://localhost:1313/tags/learning-styles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multimodal</title>
+      <link>http://localhost:1313/tags/multimodal/</link>
+      <pubDate>Tue, 14 May 2024 18:00:23 +0530</pubDate>
+      <guid>http://localhost:1313/tags/multimodal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VARK</title>
+      <link>http://localhost:1313/tags/vark/</link>
+      <pubDate>Tue, 14 May 2024 18:00:23 +0530</pubDate>
+      <guid>http://localhost:1313/tags/vark/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Improve</title>
+      <link>http://localhost:1313/tags/improve/</link>
+      <pubDate>Sat, 27 Apr 2024 10:06:46 +0530</pubDate>
+      <guid>http://localhost:1313/tags/improve/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Typography</title>
+      <link>http://localhost:1313/tags/typography/</link>
+      <pubDate>Sat, 27 Apr 2024 10:06:46 +0530</pubDate>
+      <guid>http://localhost:1313/tags/typography/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Uidesign</title>
+      <link>http://localhost:1313/tags/uidesign/</link>
+      <pubDate>Sat, 27 Apr 2024 10:06:46 +0530</pubDate>
+      <guid>http://localhost:1313/tags/uidesign/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:1313/tags/blog/</link>
+      <pubDate>Fri, 19 Apr 2024 21:18:13 +0530</pubDate>
+      <guid>http://localhost:1313/tags/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Story</title>
+      <link>http://localhost:1313/tags/story/</link>
+      <pubDate>Fri, 19 Apr 2024 21:18:13 +0530</pubDate>
+      <guid>http://localhost:1313/tags/story/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Plan</title>
+      <link>http://localhost:1313/tags/plan/</link>
+      <pubDate>Tue, 16 Apr 2024 16:27:23 +0530</pubDate>
+      <guid>http://localhost:1313/tags/plan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Process</title>
+      <link>http://localhost:1313/tags/process/</link>
+      <pubDate>Tue, 16 Apr 2024 16:27:23 +0530</pubDate>
+      <guid>http://localhost:1313/tags/process/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web-Dev</title>
+      <link>http://localhost:1313/tags/web-dev/</link>
+      <pubDate>Tue, 16 Apr 2024 16:27:23 +0530</pubDate>
+      <guid>http://localhost:1313/tags/web-dev/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Animate.css</title>
+      <link>http://localhost:1313/tags/animate.css/</link>
+      <pubDate>Sun, 14 Apr 2024 18:21:41 +0530</pubDate>
+      <guid>http://localhost:1313/tags/animate.css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Animation</title>
+      <link>http://localhost:1313/tags/animation/</link>
+      <pubDate>Sun, 14 Apr 2024 18:21:41 +0530</pubDate>
+      <guid>http://localhost:1313/tags/animation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cdn</title>
+      <link>http://localhost:1313/tags/cdn/</link>
+      <pubDate>Sun, 14 Apr 2024 18:21:41 +0530</pubDate>
+      <guid>http://localhost:1313/tags/cdn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Css</title>
+      <link>http://localhost:1313/tags/css/</link>
+      <pubDate>Sun, 14 Apr 2024 18:21:41 +0530</pubDate>
+      <guid>http://localhost:1313/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Html</title>
+      <link>http://localhost:1313/tags/html/</link>
+      <pubDate>Sun, 14 Apr 2024 18:21:41 +0530</pubDate>
+      <guid>http://localhost:1313/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Simple</title>
+      <link>http://localhost:1313/tags/simple/</link>
+      <pubDate>Sun, 14 Apr 2024 18:21:41 +0530</pubDate>
+      <guid>http://localhost:1313/tags/simple/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wow.js</title>
+      <link>http://localhost:1313/tags/wow.js/</link>
+      <pubDate>Sun, 14 Apr 2024 18:21:41 +0530</pubDate>
+      <guid>http://localhost:1313/tags/wow.js/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Cli</title>
       <link>http://localhost:1313/tags/cli/</link>
       <pubDate>Thu, 11 Apr 2024 14:16:48 +0530</pubDate>
-      
       <guid>http://localhost:1313/tags/cli/</guid>
       <description></description>
-      
     </item>
-    
     <item>
       <title>Terminal</title>
       <link>http://localhost:1313/tags/terminal/</link>
       <pubDate>Thu, 11 Apr 2024 14:16:48 +0530</pubDate>
-      
       <guid>http://localhost:1313/tags/terminal/</guid>
       <description></description>
-      
     </item>
-    
     <item>
       <title>Weather</title>
       <link>http://localhost:1313/tags/weather/</link>
       <pubDate>Thu, 11 Apr 2024 14:16:48 +0530</pubDate>
-      
       <guid>http://localhost:1313/tags/weather/</guid>
       <description></description>
-      
     </item>
-    
-    <item>
-      <title>Dom</title>
-      <link>http://localhost:1313/tags/dom/</link>
-      <pubDate>Thu, 11 Apr 2024 14:02:39 +0530</pubDate>
-      
-      <guid>http://localhost:1313/tags/dom/</guid>
-      <description></description>
-      
-    </item>
-    
     <item>
       <title>Form</title>
       <link>http://localhost:1313/tags/form/</link>
       <pubDate>Thu, 11 Apr 2024 14:02:39 +0530</pubDate>
-      
       <guid>http://localhost:1313/tags/form/</guid>
       <description></description>
-      
     </item>
-    
-    <item>
-      <title>Javascript</title>
-      <link>http://localhost:1313/tags/javascript/</link>
-      <pubDate>Thu, 11 Apr 2024 14:02:39 +0530</pubDate>
-      
-      <guid>http://localhost:1313/tags/javascript/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blog</title>
-      <link>http://localhost:1313/tags/blog/</link>
-      <pubDate>Thu, 11 Apr 2024 13:02:39 +0530</pubDate>
-      
-      <guid>http://localhost:1313/tags/blog/</guid>
-      <description></description>
-      
-    </item>
-    
     <item>
       <title>Blowfish</title>
       <link>http://localhost:1313/tags/blowfish/</link>
       <pubDate>Thu, 11 Apr 2024 13:02:39 +0530</pubDate>
-      
       <guid>http://localhost:1313/tags/blowfish/</guid>
       <description></description>
-      
     </item>
-    
     <item>
       <title>Hugo</title>
       <link>http://localhost:1313/tags/hugo/</link>
       <pubDate>Thu, 11 Apr 2024 13:02:39 +0530</pubDate>
-      
       <guid>http://localhost:1313/tags/hugo/</guid>
       <description></description>
-      
     </item>
-    
     <item>
       <title>Learn</title>
       <link>http://localhost:1313/tags/learn/</link>
       <pubDate>Thu, 11 Apr 2024 13:02:39 +0530</pubDate>
-      
       <guid>http://localhost:1313/tags/learn/</guid>
       <description></description>
-      
     </item>
-    
     <item>
       <title>Thoughts</title>
       <link>http://localhost:1313/tags/thoughts/</link>
       <pubDate>Thu, 11 Apr 2024 13:02:39 +0530</pubDate>
-      
       <guid>http://localhost:1313/tags/thoughts/</guid>
       <description></description>
-      
     </item>
-    
     <item>
       <title>Write</title>
       <link>http://localhost:1313/tags/write/</link>
       <pubDate>Thu, 11 Apr 2024 13:02:39 +0530</pubDate>
-      
       <guid>http://localhost:1313/tags/write/</guid>
       <description></description>
-      
     </item>
-    
   </channel>
 </rss>

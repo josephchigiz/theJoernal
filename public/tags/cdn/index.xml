@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cdn on theJoernal</title>
+    <link>http://localhost:1313/tags/cdn/</link>
+    <description>Recent content in Cdn on theJoernal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 14 Apr 2024 18:21:41 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/cdn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Add basic animations to your site using &#34;Animate.css&#34; and  &#34;wow.js&#34;</title>
+      <link>http://localhost:1313/posts/animate_css/</link>
+      <pubDate>Sun, 14 Apr 2024 18:21:41 +0530</pubDate>
+      <guid>http://localhost:1313/posts/animate_css/</guid>
+      <description>I have been working on my personal portfolio website (although not complete) for the past few weeks, taking it really slow, revising designs and ensuring I get my persona represented accurately.</description>
+    </item>
+  </channel>
+</rss>
