@@ -1,8 +1,7 @@
 +++
-title = 'Own_your_goal'
+title = 'Own Your Goal | Forge The Path'
 date = 2025-04-09T05:57:37+03:00
-image = 'img/default.img'
-tags = [""]
+tags = ["career", "choice", "developer", "writing"]
 +++
 
 "One of my greatest fears is comfort, and the sense of security it brings along." Of course, I forget I hate it once I'm in that soft, puffy cloud. But an awakening from this state is always appreciated.
