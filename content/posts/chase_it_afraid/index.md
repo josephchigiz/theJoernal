@@ -1,11 +1,9 @@
 +++
-title = 'Dont_fear_passion'
+title = 'Chase it afraid!'
 date = 2025-07-18T07:50:08+03:00
 draft = false
 tags = ["Career", "Fear", "Passion", "Programming", "Meaning"]
 +++
-
-# Chase It Afraid
 
 > For us humans, it is easier to articulate the negative, because they're more concrete, pragmatic **_[Lex Fridman]_** - _"it takes up more time, costs more, I'll miss out on a lot, it seems tough_ and this and that..."
 
