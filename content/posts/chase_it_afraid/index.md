@@ -42,7 +42,7 @@ There isn't one!
 Well, there actually is one. _Probably not the mood for a joke_.
 **"Knowledge is power"**, an common phrase. Fortunately, none of it's value has been lost as it has echoed so often on the walls of Kenyan classrooms.
 
-This is it! Despite wielding fear instead of courage, optimism and faith in my career battles, contemplating and writing on the matter has allowed me to re-evaluate what matters most and to allow myself to go for it. Boldly, giving no audience to the naysayers or the inevitable negatives.
+This is it! Despite wielding fear instead of courage, optimism and faith in my career battles, contemplating and writing on the matter has allowed me to re-evaluate what matters most and to allow myself to go for it. Truly, [to write is to be free](https://dev.to/thejoernal/to-write-is-to-be-free-22kp). Boldly, giving no audience to the naysayers or the inevitable negatives.
 
 Yes you can experience fear and still be passionate.
 Can you?
