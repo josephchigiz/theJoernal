@@ -19,19 +19,53 @@ You might hit rock after rock in yor pursuit of jewels, fortunately, following t
 
 This line of thoght has been inspired by my latest explorations as I looked into magazine design and specifically, magazine cover design. I started with a simple image and different text patterns and layouts. After posting the photo, I decided to actually explore magazine covers online and I realised how off the path I was. After watching this video from envato tuts+, i this was much worse that I had thought.
 
-![Frame Of Magazine Design Steps](/assets/img/wandering-artist/#56%20-%20Frame.webp)
+<figure>
+    <img src="images/1.webp"
+         alt="Issue #56 Design Progression">
+    <figcaption>Issue #56 Design Progression</figcaption>
+</figure>
 
 Following that, I made some changes to the original graphic. I added a barcode. Not really functional, but aesthetic and it made a whole lotta difference. It looked more like the ones I had seen as I scrolled in the images tab after searching "cool magazine covers". That felt like a win, but only for a bit. Why a barcode? The frst question of many.  
 The answer to this question specifically - the covers are not actually designed with the code, they're designed however with enough space spared for the publisher to place the barcode. Like any other book or retail product. Interesting.
 
-![30 under 30 magazine design cover w/o barcode](/assets/img/wandering-artist/30%20Under%2030-57-2.webp)
-![30 under 30 magazine design cover with barcode](/assets/img/wandering-artist/30%20Under%2030-57-Barcode2-compressed.webp)
+<figure>
+    <img src="images/2.webp"
+         alt="First Issue (#57) Mag Design Cover w/o Barcode">
+    <figcaption>First Issue (#57) Mag Design Cover w/o Barcode</figcaption>
+</figure>
+<figure>
+    <img src="images/3.webp"
+         alt="First Issue (#57) Mag Design Cover With Barcode">
+    <figcaption>First Issue (#57) Mag Design Cover With Barcode</figcaption>
+</figure>
 
 Unlike other magazine names, theJoernal Mag was in relatively small text with a stroke around the letters, unlike the biggest boldest text on the page for mainstream magazines, VOGUE or TIME for example. I had the date and issue number right above the mag name, instead of the colume and issue number like on the others, as it has always been done. Let alone having my series of magazines start from issue #57 moving back. Talk about breaking rules. But is it really breaking them if I had no idea they existed, probably yes still.
 
-![Eyes on the prize cover design foundation canvas](/assets/img/wandering-artist/3%20-%20BgTitleFootHeadline.png)
-![Eyes on the prize cover design headline font](/assets/img/wandering-artist/9%20-%20NewHeadlineFont.png)
-![Eyes on the prize cover design with a footnote](/assets/img/wandering-artist/12%20-#56_FootNote.png)
-![Eyes on the prize cover design with white textbox](/assets/img/wandering-artist/11%20-#56_WhiteBox.png)
+<figure>
+    <img src="images/4.png"
+         alt="Eyes on the prize cover design foundation canvas">
+    <figcaption>Issue #56 Cover Canvas</figcaption>
+</figure>
+<figure>
+    <img src="images/5.png"
+         alt="Eyes on the prize cover design headline font">
+    <figcaption>Issue #56 Cover New Headline Font</figcaption>
+</figure>
+<figure>
+    <img src="images/6.png"
+         alt="Eyes on the prize cover design with a footnote">
+    <figcaption>Issue #56 Cover With Footnote</figcaption>
+</figure>
+<figure>
+    <img src="7.png"
+         alt="Eyes on the prize cover design with white textbox">
+    <figcaption>Issue #56 Cover With White Textbox</figcaption>
+</figure>
 
 However, I decided to stop myself there and think. There's no way my idea of a good cover will come across if I follow all the rules to the tee. Theres no way it'll be memorable, there's no way it will be different and there's no way it will piss some people off(an ingridient I recently discovered for making things memorable) or others, even if only one, happy to see a different take on design. This is me, this is personal. No rules, no principles, throwing the spaghetti to the wall and seeing hat sticks. Artistic Wandering.
+
+<figure>
+    <img src="images/Final Illustrated Notebook.jpg"
+         alt="Final Notebook Cover Using First Mag Cover Design">
+    <figcaption>Notebook Mockup after Illustration Design in Figma</figcaption>
+</figure>
