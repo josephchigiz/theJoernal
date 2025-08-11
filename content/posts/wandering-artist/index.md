@@ -15,7 +15,7 @@ When I was thinking about today’s piece, I wanted to claim that ignorance has 
 
 Still, there’s a power in not knowing. No boundaries. Just passion and limitless tools. Without guiderails, you wander, and in wandering, you discover. You mix shades into new colours, stumble into strange concoctions, and sometimes, hit gold. Sure, you’ll trip over plenty of rocks along the way, but probability says you’ll eventually hit a gold ore.
 
-This line of thought came from my latest experiment: magazine cover design. I started with a simple image and some text layouts. After posting the first one, I browsed actual magazine covers and realised how far off-track I was. A (video from Envato Tuts+)[https://www.youtube.com/watch?v=o0AxPJVTkWI&pp=0gcJCfwAo7VqN5tD] confirmed it, my design was even more off than I’d thought.
+This line of thought came from my latest experiment: magazine cover design. I started with a simple image and some text layouts. After posting the first one, I browsed actual magazine covers and realised how far off-track I was. A [video from Envato Tuts+](https://www.youtube.com/watch?v=o0AxPJVTkWI&pp=0gcJCfwAo7VqN5tD) confirmed it, my design was even more off than I’d thought.
 
 <figure>
     <img src="images/1.webp"
