@@ -57,7 +57,7 @@ Unlike other magazine names, theJoernal Mag was in relatively small text with a 
     <figcaption>Issue #56 Cover With Footnote</figcaption>
 </figure>
 <figure>
-    <img src="7.png"
+    <img src="images/7.png"
          alt="Eyes on the prize cover design with white textbox">
     <figcaption>Issue #56 Cover With White Textbox</figcaption>
 </figure>
