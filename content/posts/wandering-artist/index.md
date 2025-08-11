@@ -2,7 +2,7 @@
 title = 'Wandering Artist'
 date = 2025-08-11T15:43:00+03:00
 draft = false
-tags = ["design", 'discovery', 'iterate']
+tags = ['discovery', "design", 'iterate']
 +++
 
 There’s a power that comes with having no idea, in design at least.
