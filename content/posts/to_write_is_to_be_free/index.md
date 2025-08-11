@@ -1,5 +1,5 @@
 +++
-title = 'To_write_is_to_be_free'
+title = 'To Write Is To Be Free'
 date = 2025-04-09T05:50:46+03:00
 tags = ["writing", "tutorial", "freedom", "learning"]
 +++
