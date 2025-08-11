@@ -3,21 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-04-29T15:53:56+03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/posts/test_default/</loc>
-    <lastmod>2025-04-29T15:53:56+03:00</lastmod>
+    <lastmod>2025-08-11T15:43:00+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-29T15:53:56+03:00</lastmod>
+    <lastmod>2025-08-11T15:43:00+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/career/</loc>
+    <lastmod>2025-07-18T07:50:08+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/chase_it_afraid/</loc>
+    <lastmod>2025-07-18T07:50:08+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/fear/</loc>
+    <lastmod>2025-07-18T07:50:08+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/meaning/</loc>
+    <lastmod>2025-07-18T07:50:08+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/passion/</loc>
+    <lastmod>2025-07-18T07:50:08+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/programming/</loc>
+    <lastmod>2025-07-18T07:50:08+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-07-18T07:50:08+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/choice/</loc>
+    <lastmod>2025-04-09T05:57:37+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/developer/</loc>
+    <lastmod>2025-04-09T05:57:37+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/posts/own_your_goal/</loc>
+    <lastmod>2025-04-09T05:57:37+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/writing/</loc>
     <lastmod>2025-04-09T05:57:37+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -32,22 +77,12 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-04-09T05:50:46+03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/posts/to_write_is_to_be_free/</loc>
     <lastmod>2025-04-09T05:50:46+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/tutorial/</loc>
-    <lastmod>2025-04-09T05:50:46+03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/writing/</loc>
     <lastmod>2025-04-09T05:50:46+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

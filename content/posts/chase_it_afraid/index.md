@@ -5,7 +5,7 @@ draft = false
 tags = ["Career", "Fear", "Passion", "Programming", "Meaning"]
 +++
 
-> For us humans, it is easier to articulate the negative, because they're more concrete, pragmatic **_[Lex Fridman]_** - _"it takes up more time, costs more, I'll miss out on a lot, it seems tough_ and this and that..."
+> For us humans, it is easier to articulate the negatives, because they're more concrete, pragmatic **_[Lex Fridman]_** - _"it takes up more time, costs more, I'll miss out on a lot, it seems tough_ and this and that..."
 
 To articulate the positives, and most importantly of the things we are so passionate about is a big ask. With words we can do so little to persuade an audience of the worth of that which we are passionately allied to & desperately want to share. You have to experience it. Otherwise, you end up selling it short.
 

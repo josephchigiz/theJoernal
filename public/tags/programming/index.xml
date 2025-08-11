@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on theJoernal</title>
+    <link>http://localhost:1313/tags/programming/</link>
+    <description>Recent content in Programming on theJoernal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 18 Jul 2025 07:50:08 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chase it afraid!</title>
+      <link>http://localhost:1313/posts/chase_it_afraid/</link>
+      <pubDate>Fri, 18 Jul 2025 07:50:08 +0300</pubDate>
+      <guid>http://localhost:1313/posts/chase_it_afraid/</guid>
+      <description>For us humans, it is easier to articulate the negatives, because they&amp;rsquo;re more concrete, pragmatic [Lex Fridman] - &amp;ldquo;it takes up more time, costs more, I&amp;rsquo;ll miss out on a lot, it seems tough and this and that&amp;hellip;&amp;rdquo;</description>
+    </item>
+  </channel>
+</rss>
