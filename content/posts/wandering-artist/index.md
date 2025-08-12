@@ -77,14 +77,20 @@ Other differences stood out too. My magazine name, theJoernal Mag, sat in tiny s
 
 </div>
 
-Eventually, I stopped myself. If I follow every rule to the letter, my covers won’t feel like mine. They won’t be different. They won’t be memorable. And they certainly won’t have that little ingredient I’ve recently discovered: the power to irritate some people and delight others.
+Eventually, I stopped myself. If I follow every rule to the letter, my covers won’t feel like mine. They won’t be different. They won’t be memorable. And they certainly won’t have that little ingredient I’ve recently discovered about great design: the power to irritate some people and delight others.
+
+<figure>
+    <img src="images/7.png"
+         alt="Issue #56 Final Cover Design">
+    <figcaption>Issue #56 Final Cover Design</figcaption>
+</figure>
 
 Selfishly, While art is a canvas for self expression, design is a means to problem solving. Combine the two and you get frankenstein's monster. And that's beauty in this age, it just works.
 
 <figure>
     <img src="images/Final Illustrated Notebook.jpg"
          alt="Final Notebook Cover Using First Mag Cover Design">
-    <figcaption>Notebook Mockup after Illustration Design in Figma</figcaption>
+    <figcaption>Notebook Mockup By Using Chatgpt after Illustration Design in Figma</figcaption>
 </figure>
 
 So yes, I’m learning the rules. But I’m also keeping my bias towards making it personal - throwing spaghetti at the wall and seeing what sticks. Adios!
