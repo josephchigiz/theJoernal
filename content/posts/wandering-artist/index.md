@@ -85,7 +85,7 @@ Eventually, I stopped myself. If I follow every rule to the letter, my covers wo
     <figcaption>Issue #56 Final Cover Design</figcaption>
 </figure>
 
-Selfishly, While art is a canvas for self expression, design is a means to problem solving. Combine the two and you get frankenstein's monster. And that's beauty in this age, it just works.
+Selfishly, while art is a canvas for self expression, design is a means to problem solving. Combine the two and you get frankenstein's monster. And that's beauty in this age, it just works.
 
 <figure>
     <img src="images/Final Illustrated Notebook.jpg"
