@@ -33,7 +33,7 @@ I started with a simple image and some text layouts. After posting the first one
 
 Then I tried adding a barcode. Totally non-functional, purely aesthetic; but it instantly looked more like a “real” magazine cover. That small tweak felt like a win… until I realised why barcodes exist and how space is intentionally left for the publisher in professional design.
 
-<div style="display: flex">
+<div style="display: flex; gap: 10%;">
 <figure style="width: 45%">
     <img src="images/2.webp"
          alt="First Issue (#57) Mag Design Cover w/o Barcode">
@@ -49,7 +49,7 @@ Then I tried adding a barcode. Totally non-functional, purely aesthetic; but it 
 
 Other differences stood out too. My magazine name, theJoernal Mag, sat in tiny stroked text, while mainstream covers like VOGUE or TIME shout their names in the largest type on the page. I put the date and issue number above the name instead of using the conventional “Volume / Issue” format. And of course, my series counts backwards, starting the release with Issue #57 finishing at #0. Breaking rules without even knowing they existed? Absolutely.
 
-<div style="display: flex">
+<div style="display: flex; gap: 10%;">
 <figure style="width: 45%">
     <img src="images/4.png"
          alt="Eyes on the prize cover design foundation canvas">
@@ -62,7 +62,7 @@ Other differences stood out too. My magazine name, theJoernal Mag, sat in tiny s
 </figure>
 </div>
 
-<div style="display: flex">
+<div style="display: flex; gap: 10%;">
 
 <figure style="width: 45%">
     <img src="images/6.png"
