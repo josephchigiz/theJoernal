@@ -33,49 +33,61 @@ I started with a simple image and some text layouts. After posting the first one
 
 Then I tried adding a barcode. Totally non-functional, purely aesthetic; but it instantly looked more like a “real” magazine cover. That small tweak felt like a win… until I realised why barcodes exist and how space is intentionally left for the publisher in professional design.
 
-<figure style="width: 45%; display: inline;">
+<div style="display: flex">
+<figure style="width: 45%">
     <img src="images/2.webp"
          alt="First Issue (#57) Mag Design Cover w/o Barcode">
     <figcaption>First Issue (#57) Mag Design Cover Without Barcode</figcaption>
 </figure>
 
-<figure style="width: 45%; display: inline;">
+<figure style="width: 45%">
     <img src="images/3.webp"
          alt="First Issue (#57) Mag Design Cover With Barcode">
     <figcaption>First Issue (#57) Mag Design Cover With Barcode</figcaption>
 </figure>
+</div>
 
 Other differences stood out too. My magazine name, theJoernal Mag, sat in tiny stroked text, while mainstream covers like VOGUE or TIME shout their names in the largest type on the page. I put the date and issue number above the name instead of using the conventional “Volume / Issue” format. And of course, my series counts backwards, starting the release with Issue #57 finishing at #0. Breaking rules without even knowing they existed? Absolutely.
 
-<figure style="width: 45%; display: inline;">
+<div style="display: flex">
+<figure style="width: 45%">
     <img src="images/4.png"
          alt="Eyes on the prize cover design foundation canvas">
     <figcaption>Issue #56 Cover Canvas</figcaption>
 </figure>
-<figure style="width: 45%; display: inline;">
+<figure style="width: 45%">
     <img src="images/5.png"
          alt="Eyes on the prize cover design headline font">
     <figcaption>Issue #56 Cover New Headline Font</figcaption>
 </figure>
-<figure style="width: 45%; display: inline;">
+</div>
+
+<div style="display: flex">
+
+<figure style="width: 45%">
     <img src="images/6.png"
          alt="Eyes on the prize cover design with a footnote">
     <figcaption>Issue #56 Cover With Footnote</figcaption>
 </figure>
-<figure style="width: 45%; display: inline;">
+<figure style="width: 45%">
     <img src="images/7.png"
          alt="Eyes on the prize cover design with white textbox">
     <figcaption>Issue #56 Cover With White Textbox</figcaption>
 </figure>
 
+</div>
+
 Eventually, I stopped myself. If I follow every rule to the letter, my covers won’t feel like mine. They won’t be different. They won’t be memorable. And they certainly won’t have that little ingredient I’ve recently discovered: the power to irritate some people and delight others.
 
-So yes, I’m learning the rules. But I’m also keeping my bias towards making it personal - throwing spaghetti at the wall and seeing what sticks.
-
-Artistic wandering.
+Selfishly, While art is a canvas for self expression, design is a means to problem solving. Combine the two and you get frankenstein's monster. And that's beauty in this age, it just works.
 
 <figure>
     <img src="images/Final Illustrated Notebook.jpg"
          alt="Final Notebook Cover Using First Mag Cover Design">
     <figcaption>Notebook Mockup after Illustration Design in Figma</figcaption>
 </figure>
+
+So yes, I’m learning the rules. But I’m also keeping my bias towards making it personal - throwing spaghetti at the wall and seeing what sticks. Adios!
+
+**Artistic Wandering**
+
