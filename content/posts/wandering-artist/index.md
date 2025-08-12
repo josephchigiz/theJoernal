@@ -13,7 +13,7 @@ I’ve always enjoyed design — graphic, web, fashion _(apparently my taste her
 
 When I was thinking about today’s piece, I wanted to claim that ignorance has been my to advantage. But honestly, no; I’d be a better designer with a firm grasp of the fundamentals. Guidelines exist for a reason.
 
-Still, there’s a power in not knowing. No boundaries. Just passion and limitless ambition. Without guiderails, you wander, and in wandering, you discover. You mix shades into new colours, stumble into strange concoctions, and sometimes, hit gold. Sure, hitting your small toe on a rock a couple of times comes with groping in the dark, but probability promises you’ll eventually hit a gold ore (_sooner or later_).
+Still, there’s a power in not knowing. No boundaries. Just passion and limitless ambition. Without guiderails, you wander, and in wandering, you discover. You mix shades into new colours, stumble into strange concoctions, and sometimes, hit gold. Sure, hitting your small toe on a rock a couple of times comes with groping in the dark, but probability promises you’ll eventually strike gold (_sooner or later_).
 
 This line of thought came from my latest experiment: magazine cover design. Having some ideas in mind, I flagged off the journey with a design series of magazine covers themed ***"To Be Or Not To Be"***.  
 
